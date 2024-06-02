@@ -7,6 +7,9 @@ theme: forty-jekyll-theme
 # Emoji settings
 emoji: true
 
+plugins:
+  - jemoji
+
 # Markdown settings
 markdown: kramdown
 kramdown:
