@@ -1,5 +1,5 @@
 | :iphone: App | :speech_balloon: Description | :package: Versions | :green_apple: darwin/arm64 | :apple: darwin/amd64 |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | --- | :---: | :---: | :---: |
 | cmake | CMake C++ build system | 3.29.3 | :white_check_mark: | :white_check_mark: |
 | colima | Colima is a lightweight and minimal container runtime that provides an alternative to Docker, Podman, and containerd. | 0.6.9 | :white_check_mark: | :white_check_mark: |
 | curl | Curl - Command line tool and library for transferring data with URLs | 8.6.0, 8.7.1 | :white_check_mark: | :white_check_mark: |
