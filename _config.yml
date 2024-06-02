@@ -1,12 +1,16 @@
-# Site settings
 title: Apps
+description: A description of your site
 
 # Theme settings
-theme: forty-jekyll-theme
+theme: minimal-mistakes-jekyll
+
+# Enable dark mode
+minimal_mistakes_skin: dark
 
 # Emoji settings
 emoji: true
 
+# Plugins
 plugins:
   - jemoji
 
@@ -14,3 +18,16 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Site navigation (example)
+header:
+  nav:
+    - text: "Home"
+      url: "/"
+    - text: "About"
+      url: "/about/"
+    - text: "Contact"
+      url: "/contact/"
+
+# Enable syntax highlighting (optional)
+highlighter: rouge
