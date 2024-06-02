@@ -1,8 +1,8 @@
 title: Apps
 description: A description of your site
 
-# Theme settings
-theme: minimal-mistakes-jekyll
+# Remote theme settings
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Enable dark mode
 minimal_mistakes_skin: dark
