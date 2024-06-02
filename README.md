@@ -1,7 +1,8 @@
 | :iphone: App | :package: Versions | :rocket: Supported Platforms |
 | --- | -------- | ------------------- |
 | cmake | 3.29.3 | darwin_amd64, darwin-arm64 |
-| curl | 8.6.0, 8.7.1, template | darwin_amd64, darwin-arm64 |
+| colima | 0.6.9 | darwin_amd64, darwin-arm64 |
+| curl | 8.6.0, 8.7.1 | darwin_amd64, darwin-arm64 |
 | git-lfs | 3.5.1 | darwin_amd64, darwin-arm64 |
 | gnu-inetutils | 2.0 | darwin_amd64, darwin-arm64 |
 | golang | 1.20.0, 1.20.1, 1.20.10, 1.20.11, 1.20.12, 1.20.13, 1.20.14, 1.20.2, 1.20.3, 1.20.4, 1.20.5, 1.20.6, 1.20.7, 1.20.8, 1.20.9, 1.21.0, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.22.0, 1.22.1, 1.22.2 | darwin_amd64, darwin-arm64 |
@@ -25,5 +26,5 @@
 | vim | release-179 | darwin_amd64, darwin-arm64 |
 | vscode | 1.87.0, 1.89.1 | darwin_amd64, darwin-arm64 |
 | yarn | 1.22.10, 1.22.11, 1.22.12, 1.22.13, 1.22.14, 1.22.15, 1.22.16, 1.22.17, 1.22.18, 1.22.19, 1.22.20, 1.22.21, 1.22.22, 1.22.4, 1.22.5 | darwin_amd64, darwin-arm64 |
-| yarn-2+ | 4.1.1, template | darwin_amd64, darwin-arm64 |
+| yarn-2+ | 4.1.1 | darwin_amd64, darwin-arm64 |
 
